@@ -1,3 +1,5 @@
+# Please set the address and HTTPS post data.  If you don't need the HTTPS post, comment out lines 16 and 17.
+
 import os
 import requests
 import time
