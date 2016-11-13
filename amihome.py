@@ -6,7 +6,6 @@ import time
 
 home = 0
 address = "192.168.1.143"
-#response = os.system("ping -c 1 " + address)
 y = 'y'
 
 while y == 'y':
